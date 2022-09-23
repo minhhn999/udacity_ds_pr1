@@ -1,8 +1,8 @@
 # Homestay Price At Seatle Investigation
 ## by MinhNT34
 
-project link: https://github.com/minhhn999/udacity_ds_pr1
-blog post link: https://medium.com/@minhdhbkhn/homestay-price-at-seatle-investigation-405d61b0e37c
+- project link: https://github.com/minhhn999/udacity_ds_pr1
+- blog post link: https://medium.com/@minhdhbkhn/homestay-price-at-seatle-investigation-405d61b0e37c
 
 ## Project summary
 

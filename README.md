@@ -1,15 +1,19 @@
 # Homestay Price At Seatle Investigation
 ## by MinhNT34
 
-### Project summary
+project link: https://github.com/minhhn999/udacity_ds_pr1
+blog post link: https://medium.com/@minhdhbkhn/homestay-price-at-seatle-investigation-405d61b0e37c
+
+## Project summary
+
     - Project name: Homestay Price At Seatle Investigation
     - Description: Project is to investigating how characteristics of homestay affected to the price.
 
 ## explanation of files in the repository
+
     - seattle_airbnb.ipynb is jupyter notebook file which contains all the investigation
     - listings.csv is the dataset file containing information  about homstay in Seattle
     - seattle_airbnb.slides.html is slide file for communication. This file is generated each time run deploy command at the end of seattle_airbnb.ipynb
-
 
 ## Dataset
 
